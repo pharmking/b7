@@ -1,0 +1,11 @@
+.u-section-1 .u-sheet-1 {min-height: 500px}
+.u-section-1 .u-text-1 {margin: 20px auto 60px} 
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 220px}
+.u-section-1 .u-text-1 {width: auto; margin-top: 75px} }.u-section-2 .u-sheet-1 {min-height: 500px}
+.u-section-2 .u-line-1 {height: 3px; transform-origin: left center 0; margin: -44px auto 30px 0} 
+
+@media (max-width: 575px){ .u-section-2 {margin-top: 0; margin-bottom: 0}
+.u-section-2 .u-sheet-1 {min-height: 474px}
+.u-section-2 .u-line-1 {margin-top: 0; margin-bottom: 0; margin-right: initial; margin-left: initial}
+.u-section-2 .u-icon-1 {height: 64px; width: 64px; margin: 96px auto 60px} }
